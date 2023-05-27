@@ -1,4 +1,4 @@
-### Olá! Eu sou o ArtHMS 
+### Olá! Eu sou o Arthur
 
 - 🌱 Estudando Python e Java
 - 😄 Pronouns: ele/dele
